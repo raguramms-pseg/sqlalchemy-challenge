@@ -4,7 +4,9 @@ Module-10-SqlAlchemy Challenge
 Part1: Analyze and Explore the Climate Data
 
   SurfsUp->This folder has climate_start.ipynb file which has following Climate analysis
+  
      1. Precipation Analysis by date depicted in bar chart
+     
      2. Station Ananlysis to observe the temperatures for past 12 months of dataset and plotted using histogram
 
 Part2:Design Climate App
